@@ -1,7 +1,6 @@
 # Sudoku Solver
 
-This is a small project built on python that solves any sudoku puzzle. It can find all possible solutions of the puzzle.
-You do not need to download any python packages to run this project.
+It is a small project built on python that solves any sudoku puzzle. It can find all possible solutions to the sudoku puzzle.
 
 ### Prerequisite
 1. Python3
